@@ -20,7 +20,7 @@ import retrofit2.Response;
 
 public class ScienceFragment extends Fragment {
 
-    String api = "18b0cfe8f9ef456fb9710015c44d0fa3";
+    String api = "ADD YOUR API KEY";
     ArrayList<ModalClass> modalClassArrayList;
     Adapter adapter;
     String country = "in";
