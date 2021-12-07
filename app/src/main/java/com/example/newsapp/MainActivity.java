@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
     Toolbar toolbar;
     ViewPager viewPager;
 
-    String api = "18b0cfe8f9ef456fb9710015c44d0fa3";
+    String api = "ADD YOUR API KEY";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
